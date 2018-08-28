@@ -1,0 +1,90 @@
+/*<header> 
+			
+			<img src="https://avatarfiles.alphacoders.com/118/118200.jpg">
+			<h1> SpongeBob SquarePants </h1>
+		</header>
+*/
+
+html, body {
+
+	font-family: Arial;
+	margin: 0;
+}
+
+header{
+background-color: #ffff00;
+padding: 1000px;
+padding-left: 2100px;
+align-items: center;
+}
+
+h1{
+
+font-size: 100px;
+color: #312763;
+}
+
+header img{
+width: 1500px;
+border-radius: 1000px;
+border: 30px solid black ;
+
+}
+
+.content{
+max-width: 2000px;
+margin: 0;
+background-color: #1a8cff;
+color: #ccf2ff;
+font-size: 60px;
+padding-left: 2000px;
+padding-right: 2000px;
+padding-top: 100px;
+padding-bottom: 200px;
+
+}
+
+img.big-image{
+	max-width: 100%;
+	width: 15000px;
+
+}
+
+p.caption{
+	font-size: 70px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+padding: 0;
+margin: 0;
+text-decoration: underline;
+}
+
+a{
+color:  white;
+text-decoration: none;
+}
+
+footer{
+	font-size: 60px;
+	margin: 10px
+padding-top: 200px;
+background-color: #004d99;
+color: #ffff00;
+
+}
+
+footer ul{
+	text-align: center;
+}
+footer ul li{
+	display: inline;
+}
+
+
+
+
+
+
